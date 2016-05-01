@@ -34,7 +34,8 @@
 			<h3>Contact Me</h3>
 			<p>The contact me page will include all the possible ways to reach me. This will include my github,linkedIn account,as well as my
 				direct email. This will also include the basic format to contact me through the website, allowing the user to input ther information
-				and there contact information so I can return any responses I get through the website.</p>
+				and there contact information so I can return any responses I get through the website. This page will be included on the About Me
+				page id not enough content.</p>
 			<h2>Interaction Flow</h2>
 			<p>Anthony is looking at new candidates for the job posting his company has with his macbook at work and has decided to visit my
 				github and linkedIn profile, and is interested in looking at the personal website I have created. This list will include the
@@ -46,7 +47,7 @@
 					<li>After reading all the information about my history and work experience Anthony proceeds to click on the "My Work/Projects"
 						page.</li>
 					<li>Anthony takes some time to look at the capstone project that I worked on and is interested in contacting me, he clicks on
-					the contact link in the top right and sends me a direct email.</li>
+						the contact link in the top right and sends me a direct email.</li>
 				</ol>
 		</main>
 	</body>
