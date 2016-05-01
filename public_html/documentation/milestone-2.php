@@ -48,10 +48,12 @@
 						page.</li>
 					<li>Anthony takes some time to look at the capstone project that I worked on and is interested in contacting me, he clicks on
 						the contact link in the top right and sends me a direct email.</li>
+				</ol>
+				<p>
 					<img src="images/wireframe.svg">
 					<img src="images/wireframe2web.svg">
 					<img src="images/wireframemobile.svg">
-				</ol>
+				</p>
 		</main>
 	</body>
 </html>
